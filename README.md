@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### 🔭 Links
+- 🌱 [about]()
+- ⚡ [blog](https://fjdj.hatenablog.com/)
+- 💬 [twitter](https://twitter.com/12smh1/)
+- 📚 [Personal Wiki]()
+
+### Status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjdj-1515&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjdj-1515&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **fjdj-1515/fjdj-1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
