@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### 🔭 Links
-- 🌱 [about]()
+- 🌱 [about](https://fjdj.dev/)
 - ⚡ [blog](https://fjdj.hatenablog.com/)
 - 💬 [twitter](https://twitter.com/12smh1/)
-- 📚 [Personal Wiki]()
+- 📚 [Personal Wiki](https://wiki.fjdj.dev/)
 
 ### Status
 
