@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://komarev.com/ghpvc/?username=fjdj-1515&label=Profile%20views&color=0e75b6&style=flat
 
 #### 🔭 Links
 - 🌱 [about](https://fjdj.dev/)
@@ -9,7 +10,10 @@
 ### Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjdj-1515&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjdj-1515&)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!-- [![fjdj-1515's github stats](https://github-readme-stats.vercel.app/api?username=fjdj-1515)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **fjdj-1515/fjdj-1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
