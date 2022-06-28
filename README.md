@@ -14,8 +14,7 @@
 - 📚 [Personal Wiki](https://wiki.fjdj.dev/)
 
 ### Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjdj-1515&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjdj-1515&layout=compact)](https://github.com/anuraghazra/github-readme-stats)　
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjdj-1515&)](https://github.com/anuraghazra/github-readme-stats)
 
 
