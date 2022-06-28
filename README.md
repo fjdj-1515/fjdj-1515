@@ -3,7 +3,7 @@
 #### 🔭 Links
 - 🌱 [about](https://fjdj.dev/)
 - ⚡ [blog](https://fjdj.hatenablog.com/)
-- 💬 [twitter](https://twitter.com/12smh1/)
+- 💬 [twitter](https://twitter.com/fjdj_dev/)
 - 📚 [Personal Wiki](https://wiki.fjdj.dev/)
 
 ### Status
